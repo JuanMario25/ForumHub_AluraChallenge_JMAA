@@ -16,3 +16,4 @@ Note:
 - Before running the app, it is necessary install mysql and mysqlWorkBench to create a databese, then set the URL, username, password, and other database details in the application.properties file.
 - To send requests other than login or sign-up from Insomnia, the user must first be registered and logged in (the register is in a loca database).
 
+Project made by Juan Mario Ayala A.
