@@ -1,0 +1,4 @@
+CREATE TABLE profile_table(
+id BIGINT AUTO_INCREMENT PRIMARY KEY,
+role_permissions VARCHAR(100)
+);
